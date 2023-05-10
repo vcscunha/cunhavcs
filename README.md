@@ -1,8 +1,8 @@
 # Vinicius Cunha
 ![Profile Views](https://komarev.com/ghpvc/?username=cunhavcs&color=blue&style=flat-square)
 
+
 ## Sobre
----
 
 Sou pessoa estudante de desenvolvimento web na Trybe. Desenvolvi projetos de front-end utilizando HTML, CSS, JavaScript puro e React, tanto com componentes de classe e gerenciamento de estado com Redux, como com componentes funcionais, Context API e Hooks. Em boa parte das aplicações criei testes com Jest e React Testing Library. No módulo de back-end, trabalhei com Docker, MySQL e iniciei os trabalhos com o Node.js (API Rest com Express, Testes de Integração, Middlewares).
 
@@ -12,7 +12,6 @@ Sempre me identifiquei com assuntos sobre matemática, lógica, produtividade e 
 
 
 ## Contato
----
 
 <a href="mailto:cunha.vcs@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/vinicius-cs-cunha/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -20,7 +19,6 @@ Sempre me identifiquei com assuntos sobre matemática, lógica, produtividade e 
 &nbsp;
 
 ## Estatísticas GitHub
----
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=cunhavcs&hide=contribs,issues&count_private=true&show_icons=true&theme=dark&hide_title=true)
 
@@ -28,14 +26,12 @@ Sempre me identifiquei com assuntos sobre matemática, lógica, produtividade e 
 &nbsp;
 
 ## Linguagens mais utilizadas
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cunhavcs&layout=compact&theme=dark)](https://github.com/cunhavcs/github-readme-stats)
 
 &nbsp;
 
 ## Fundamentos do Desenvolvimento Web
----
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -56,7 +52,6 @@ Sempre me identifiquei com assuntos sobre matemática, lógica, produtividade e 
 &nbsp;
 
 ## Front-end
----
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -68,7 +63,6 @@ Sempre me identifiquei com assuntos sobre matemática, lógica, produtividade e 
 &nbsp;
 
 ## Back-end
----
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
