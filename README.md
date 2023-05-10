@@ -20,8 +20,7 @@ Sempre me identifiquei com assuntos sobre matemática, lógica, produtividade e 
 
 ## Estatísticas GitHub
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=cunhavcs&hide=contribs,issues&count_private=true&show_icons=true&theme=dark&hide_title=true)
-
+[![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=cunhavcs&hide=issues,contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/cunhavcs/github-readme-stats)
 
 &nbsp;
 
