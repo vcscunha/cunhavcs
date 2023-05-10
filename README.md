@@ -1,5 +1,5 @@
 # Vinicius Cunha
-![Profile Views](https://komarev.com/ghpvc/?username=cunhavcs&color=red&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=cunhavcs&color=blue&style=flat-square)
 
 ## Sobre
 ---
